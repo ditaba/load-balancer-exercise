@@ -12,5 +12,8 @@
   "dependencies": {
     "bottleneck": "^2.3.0",
     "sleep": "^5.1.1"
+  },
+  "devDependencies": {
+    "loadtest": "^5.0.0"
   }
 }
